@@ -1,0 +1,14 @@
+# ninja log v5
+1	1378	1682499671876149362	build.ninja	232a0d2d9685ef50
+0	84	1682499045566181818	DateConverter_lib/CMakeFiles/DateConverter_lib.dir/Gregorian.cpp.o	a7a5f0df0b657bac
+0	84	1682499045566157053	DateConverter_lib/CMakeFiles/DateConverter_lib.dir/Julian.cpp.o	112296d55c58b76c
+84	131	1682499045617543000	DateConverter_lib/libDateConverter_lib.a	4faf939d305641b0
+0	785	1682499046249609554	CMakeFiles/DateConverter_run.dir/main.cpp.o	54167eb15256f218
+791	890	1682499046372550634	DateConverter_run	71e4f48c0e96c59e
+3	2314	1682499763859092652	Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	3c01746d16e42e65
+1	2404	1682499763950456579	Google_tests/CMakeFiles/Google_Tests_run.dir/AbsoluteDateTest.cpp.o	21098a9812e8445b
+0	2431	1682499763975855978	Google_tests/CMakeFiles/Google_Tests_run.dir/ConverterTests.cpp.o	e983cd728a848bef
+2	5089	1682499766625523782	Google_tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	56b460e73816c085
+5090	5217	1682499766776596000	lib/libgtest.a	a077bb15124b83bc
+5217	5258	1682499766817974000	lib/libgtest_main.a	c5c8add6d0f4e50f
+5258	5383	1682499766922620696	Google_tests/Google_Tests_run	64fdf906c4f7863
